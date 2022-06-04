@@ -1,0 +1,2 @@
+len("string")	 *menghitung jumlah huruf yang ada di dalam "" dengan dimulai dari 0
+"string"[number] *mengambil karakter/ hutuf pada urutan "" dimulai dari 0 
