@@ -1,0 +1,12 @@
+cara mengkompilasi program go yaitu sebagai berikut:
+
+> go build (nama_program).go
+> maka outputnya akan menghasilkan program yang dapat di execute.
+> file execute dapat di run denga memasukan perintah ./nama_program
+
+untuk yang kedua ya itu cara debug:
+
+> go run (nama_program).go
+> maka kita tidak perlu mengkompilasi program untuk menghasilkan outpunya.
+> ini merupakan cara untuk debug program 'go' yang dimana pada akhirnya kita harus 'build' program kita
+> output dari program ini akan sama dengan perintah ./nama_program namun bedanya kita tidak harus mengkompilasi program kita terlebih dahulu.
