@@ -1,0 +1,12 @@
+OPERATOR PERBANDINGAN
+
+< kurang dari
+> lebih dari
+>= lebih dari sama dengan 
+<= kurang dari sama dengan
+== sama dengan
+!= tidak sama dengan
+
+
+operasi perbandingan pada golang seluruhnya hanya menghasilkan nilai boolean
+
