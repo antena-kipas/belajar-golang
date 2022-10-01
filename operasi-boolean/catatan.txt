@@ -1,0 +1,22 @@
+OPERASI BOOLEAN
+
+&&	Dan
+||	Atau 
+!	Kebalikan
+
+OPERASI && 
+
+NILAI	OPERATOR	NILAI2		Hasil
+true	&&		true		True
+true	&&		false		false
+false	&&		true		false
+false	&&		false		false
+
+OPERASI ||
+
+NILAI	OPERATOR	NILAI2		Hasil
+true	||		true		True
+true	||		false		true
+false	||		true		true
+false	||		false		false
+
