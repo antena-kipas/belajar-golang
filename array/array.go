@@ -3,8 +3,8 @@ import "fmt"
 
 func main(){
 	var nama[3]string
-	nama[0] = "OZON"
-	nama[1] = "asep garpu"
+	nama[0] = "OZON,"
+	nama[1] = "asep garpu,"
 	nama[2] = "Opet"
 
 	fmt.Println(nama)
